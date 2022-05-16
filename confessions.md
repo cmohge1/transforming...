@@ -1,25 +1,3 @@
-::: {.container_inside}
-::: {.logo_inside}
-[![Documenting the American South
-Logo](/images/logo2-small.gif){width="216" height="46"}](/index.html)
-:::
-
-::: {.forminside}
-:::
-
-::: {.spacer}
-:::
-
-::: {.menu}
- [About](/support/about/) \| [Collections](/browse/collections.html) \|
-[Authors](/browse/author/) \| [Titles](/browse/title/) \|
-[Subjects](/browse/subject/) \| [Geographic](/browse/geographic/) \|
-[K-12](https://www.ncpedia.org/anchor/anchor) \| [Facebook  ![facebook
-logo](/images/facebook-icon1.png){width="14"
-height="14"}](http://www.facebook.com/UNCDigitalCollections) \| [Buy
-DocSouth Books](/support/docsouth_books/)
-:::
-
 ## THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.: Electronic Edition. {#the-confessions-of-nat-turner-the-leader-of-the-late-insurrection-in-southampton-va.-electronic-edition. align="center"}
 
 ### Nat Turner, 1800?-1831 {#nat-turner-1800-1831 align="center"}
@@ -44,8 +22,6 @@ University of North Carolina at Chapel Hill,\
 US](https://imageserv.lib.unc.edu/rights/noc-us.png)](http://rightsstatements.org/vocab/NoC-US/1.0/)
 
 #### Call number VCC326.92 T95 1831 (North Carolina Collection, UNC-CH)
-
-\
 
 ------------------------------------------------------------------------
 
@@ -77,29 +53,6 @@ LC Subject Headings:
 -   Slaves \-- Virginia \-- Southampton County \-- Biography.
 -   Southampton County (Va.) \-- History \-- 19th century.
 
-------------------------------------------------------------------------
-
--   
-
-    \
-
--   
-
-    \
-
--   
-
-    \
-
--   
-
-    \
-
-[]{#Text}
-
-------------------------------------------------------------------------
-
-[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}\
 
 ------------------------------------------------------------------------
 
