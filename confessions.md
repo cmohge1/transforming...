@@ -56,7 +56,7 @@ LC Subject Headings:
 
 ------------------------------------------------------------------------
 
-### THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA. {#the-confessions-of-nat-turner-the-leader-of-the-late-insurrection-in-southampton-va. align="center"}
+### <span text-align="center">THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.</span> 
 
 As fully and voluntarily made to\
 THOMAS R. GRAY\
@@ -987,26 +987,4 @@ with their owners\' names, and sentence.*
 -   Isham Turner, (free,) \-- \-- \-- \-- Sent on for further trial.
 -   Nat Turner, \-- \-- \-- \--Putnam Moore, dec\'d, Convicted.
 
-------------------------------------------------------------------------
-
-::: {.links}
-Return to Menu Page for [[The Confessions of Nat Turner \...]{.italic}
-by Nat Turner](menu.html)
-
-Return to [North American Slave Narratives, Beginnings to
-1920](/neh/index.html) Home Page
-
-Return to [[Documenting the American South]{.italic}](/index.html) Home
-Page
-:::
-
-::: {.menu}
-[  Contact Us](/permission/write.html)   \|   [FAQ](/support/faq/)   \|
-  [DocSouth Data](/docsouthdata/) \|   [Home](/index.html)   \|   [UNC
-Library](https://library.unc.edu/)   \|   [UNC-Chapel
-Hill  ](http://www.unc.edu/)
-:::
-
-::: {.spacer}
-:::
-:::
+------------------------------------------
